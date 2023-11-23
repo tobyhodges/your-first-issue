@@ -6,14 +6,14 @@ exercises: 2
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- How do you prepar the sourdough cinnamon rolls?
+- How do you prepare the sourdough cinnamon rolls?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Be able to prduce a batch of delicious cinnamon rolls
-- Understand how to adjust proooofing time
+- Be able to produce a batch of delicious cinnamon rolls
+- Understand how to adjust proofing time
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
