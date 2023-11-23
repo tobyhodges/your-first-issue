@@ -1,51 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://carpentries.github.io/workbench-template-rmd/404.html</loc>
+    <loc>https://tobyhodges.github.io/your-first-issue/404.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-rmd/CODE_OF_CONDUCT.html</loc>
+    <loc>https://tobyhodges.github.io/your-first-issue/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-rmd/LICENSE.html</loc>
+    <loc>https://tobyhodges.github.io/your-first-issue/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-rmd/index.html</loc>
+    <loc>https://tobyhodges.github.io/your-first-issue/aio.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-rmd/instructor/404.html</loc>
+    <loc>https://tobyhodges.github.io/your-first-issue/images.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-rmd/instructor/CODE_OF_CONDUCT.html</loc>
+    <loc>https://tobyhodges.github.io/your-first-issue/index.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-rmd/instructor/LICENSE.html</loc>
+    <loc>https://tobyhodges.github.io/your-first-issue/instructor/404.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-rmd/instructor/index.html</loc>
+    <loc>https://tobyhodges.github.io/your-first-issue/instructor/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-rmd/instructor/profiles.html</loc>
+    <loc>https://tobyhodges.github.io/your-first-issue/instructor/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-rmd/instructor/recipe_ingredients.html</loc>
+    <loc>https://tobyhodges.github.io/your-first-issue/instructor/aio.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-rmd/instructor/recipe_instructions.html</loc>
+    <loc>https://tobyhodges.github.io/your-first-issue/instructor/images.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-rmd/instructor/recipe_intro.html</loc>
+    <loc>https://tobyhodges.github.io/your-first-issue/instructor/index.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-rmd/profiles.html</loc>
+    <loc>https://tobyhodges.github.io/your-first-issue/instructor/instructor-notes.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-rmd/recipe_ingredients.html</loc>
+    <loc>https://tobyhodges.github.io/your-first-issue/instructor/key-points.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-rmd/recipe_instructions.html</loc>
+    <loc>https://tobyhodges.github.io/your-first-issue/instructor/profiles.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-rmd/recipe_intro.html</loc>
+    <loc>https://tobyhodges.github.io/your-first-issue/instructor/recipe_ingredients.html</loc>
+  </url>
+  <url>
+    <loc>https://tobyhodges.github.io/your-first-issue/instructor/recipe_instructions.html</loc>
+  </url>
+  <url>
+    <loc>https://tobyhodges.github.io/your-first-issue/instructor/recipe_intro.html</loc>
+  </url>
+  <url>
+    <loc>https://tobyhodges.github.io/your-first-issue/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://tobyhodges.github.io/your-first-issue/key-points.html</loc>
+  </url>
+  <url>
+    <loc>https://tobyhodges.github.io/your-first-issue/profiles.html</loc>
+  </url>
+  <url>
+    <loc>https://tobyhodges.github.io/your-first-issue/recipe_ingredients.html</loc>
+  </url>
+  <url>
+    <loc>https://tobyhodges.github.io/your-first-issue/recipe_instructions.html</loc>
+  </url>
+  <url>
+    <loc>https://tobyhodges.github.io/your-first-issue/recipe_intro.html</loc>
   </url>
 </urlset>
