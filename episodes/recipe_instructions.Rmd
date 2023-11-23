@@ -12,8 +12,8 @@ exercises: 2
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Be able to prduce a batch of delicious cinnamon rolls
-- Understand how to adjust proooofing time
+- Be able to produce a batch of delicious cinnamon rolls
+- Understand how to adjust proofing time
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -22,7 +22,7 @@ exercises: 2
 
 **Mix the dough:** 
 
-- Use a box grater to shred the cold butter into a large mixing bowl.
+- Use a box greater to shared the cold butter into a large mixing bowl.
 - Add the flour to the bowl and use a fork, bench scraper, or pastry cutter (if you have one) to cut the butter into the flour.
 - Add the sourdough starter discard, buttermilk, honey and salt.
 - Use a spatula or wooden spoon to mix until the ingredients are well incorporated.
