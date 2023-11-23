@@ -6,13 +6,13 @@ exercises: 2
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- How do you prepar the sourdough cinnamon rolls?
+- How do you prepare the sourdough cinnamon rolls?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Be able to prduce a batch of delicious cinnamon rolls
+- Be able to produce a batch of delicious cinnamon rolls
 - Understand how to adjust proooofing time
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
@@ -42,11 +42,11 @@ fine).
 *If using active sourdough starter, skip this step.*
 
 - Use a fork to mix the baking powder and baking soda in a small bowl until they are evenly mixed with no clumps.
-- Sprinkle the mixture evenly on top of the dough and use your hands to mix it in, distributing it evenly throughout the dough.
+Sprinkle the mixture evenly on top of the dough and use your hands to mix it in, distributing it evenly throughout the dough.
 
 **Roll out the dough:**
 
-- Flour your work surface generously and tip the dough out of the bowl onto it.
+- Flour your work surface generously, and tip the dough out of the bowl onto it.
 - Sprinkle flour across the top of the dough.
 - Use a rolling pin to roll the dough into a roughly 12" x 24" (30cm x 61cm) rectangle, which should be about 1/4" (0.5cm) thick.
 
@@ -61,7 +61,7 @@ fine).
 **Bake:**
 
 - Bake the cinnamon rolls for 35-40 minutes or until the tops show a nice golden-brown color.
-- Remove from the oven and drizzle glaze over the rolls while they are still hot.
+- Remove from the oven and drizzle glaze over them while they are still hot.
 
 ![](fig/cinnamon-rolls-in-the-oven.jpg){alt='A bunch of cinnamon rolls in a baking tray in an oven.'}
 A batch of cinnamon rolls partway through baking, wafting a very tempting aroma throughout the kitchen.
